@@ -268,8 +268,8 @@
 2 GIVN مصطفى
 1 SEX M
 1 OBJE
-2 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/mustafa%20muhamad%20kahat.jpeg
-2 FORM jpeg
+2 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/ahmadon.jpg
+2 FORM jpg
 2 TITL الشيخ مصطفى
 1 FAMC @F0003@
 2 PEDI birth
@@ -7050,5 +7050,6 @@
 2 DATE 19 SEP 2025
 3 TIME 23:55:08
 0 TRLR
+
 
 

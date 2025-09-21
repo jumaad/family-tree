@@ -624,8 +624,8 @@
 2 TYPE birth
 2 GIVN محمد
 1 SEX M
-FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/muhamad%20kardesim%20(2).jpeg
-FORM jpeg
+2 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/muhamad%20kardesim%20(2).jpeg
+2 FORM jpeg
 1 FAMC @F0016@
 2 PEDI birth
 1 FAMS @F0019@
@@ -7052,6 +7052,7 @@ FORM jpeg
 2 DATE 19 SEP 2025
 3 TIME 23:55:08
 0 TRLR
+
 
 
 

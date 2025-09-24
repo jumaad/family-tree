@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.5--1
 2 NAME Gramps
 1 DATE 24 SEP 2025
-2 TIME 20:19:25
+2 TIME 21:58:15
 1 SUBM @SUBM@
 1 FILE F:\bekab kahat\kahatTree21.ged
 1 COPR Copyright (c) 2025 .
@@ -1312,35 +1312,48 @@
 2 TYPE birth
 2 GIVN خالد
 1 SEX M
+1 BIRT
+2 DATE 1958
+1 DEAT
+2 DATE 25-5-2025
 1 FAMC @F0048@
 2 PEDI birth
 1 FAMS @F0185@
 1 CHAN
 2 DATE 24 SEP 2025
-3 TIME 19:42:11
+3 TIME 21:57:46
 0 @I0125@ INDI
 1 NAME أحمد //
 2 TYPE birth
 2 GIVN أحمد
 1 SEX M
+1 BIRT
+2 DATE 20-5-1966
+1 DEAT
+2 DATE 06-08-2012
 1 FAMC @F0048@
 2 PEDI birth
 1 FAMS @F0193@
+1 OBJE @O0028@
 1 CHAN
 2 DATE 24 SEP 2025
-3 TIME 19:57:37
+3 TIME 21:55:30
 0 @I0126@ INDI
 1 NAME محمد //
 2 TYPE birth
 2 GIVN محمد
 1 SEX M
+1 BIRT
+2 DATE 01-11-1968
+1 DEAT
+2 DATE 15-12-2024
 1 FAMC @F0048@
 2 PEDI birth
 1 FAMS @F0195@
 1 OBJE @O0015@
 1 CHAN
 2 DATE 24 SEP 2025
-3 TIME 20:05:47
+3 TIME 20:48:36
 0 @I0127@ INDI
 1 NAME محمد //
 2 TYPE birth
@@ -5814,9 +5827,11 @@
 1 FAMC @F0193@
 2 PEDI birth
 1 FAMS @F0194@
+1 OBJE @O0022@
+1 OBJE @O0027@
 1 CHAN
 2 DATE 24 SEP 2025
-3 TIME 19:59:03
+3 TIME 21:50:45
 0 @I0561@ INDI
 1 NAME أحمد //
 2 TYPE birth
@@ -5824,9 +5839,11 @@
 1 SEX M
 1 FAMC @F0194@
 2 PEDI birth
+1 OBJE @O0023@
+1 OBJE @O0026@
 1 CHAN
 2 DATE 24 SEP 2025
-3 TIME 19:59:03
+3 TIME 21:48:50
 0 @I0562@ INDI
 1 NAME بلال //
 2 TYPE birth
@@ -5834,9 +5851,11 @@
 1 SEX M
 1 FAMC @F0194@
 2 PEDI birth
+1 OBJE @O0024@
+1 OBJE @O0025@
 1 CHAN
 2 DATE 24 SEP 2025
-3 TIME 19:59:03
+3 TIME 21:47:31
 0 @I0563@ INDI
 1 NAME حسن //
 2 TYPE birth
@@ -7554,6 +7573,69 @@
 1 CHAN
 2 DATE 24 SEP 2025
 3 TIME 20:18:36
+0 @O0020@ OBJE
+1 FILE c:\users\alrak\onedrive - erciyes.edu.tr\الصور\..\..\Downloads\hasan ahmad hasan kahat.jpeg
+2 FORM jpeg
+2 TITL hasan ahmad hasan kahat
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:00:22
+0 @O0021@ OBJE
+1 FILE c:\users\alrak\onedrive - erciyes.edu.tr\الصور\..\..\Downloads\hasan ahmad hasan kahat.jpg
+2 FORM jpg
+2 TITL hasan ahmad hasan kahat
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:05:47
+0 @O0022@ OBJE
+1 FILE c:\users\alrak\onedrive - erciyes.edu.tr\الصور\..\..\Downloads\passport_style_photo.jpg
+2 FORM jpg
+2 TITL passport_style_photo
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:29:28
+0 @O0023@ OBJE
+1 FILE c:\users\alrak\onedrive - erciyes.edu.tr\الصور\..\..\Downloads\ahmad hasan ahmad hasan kahat.jpeg
+2 FORM jpeg
+2 TITL ahmad hasan ahmad hasan kahat
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:31:57
+0 @O0024@ OBJE
+1 FILE c:\users\alrak\onedrive - erciyes.edu.tr\الصور\..\..\Downloads\bilal hasan ahmad hasan kahat.jpeg
+2 FORM jpeg
+2 TITL bilal hasan ahmad hasan kahat
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:39:59
+0 @O0025@ OBJE
+1 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/bilal%20hasan%20ahmad%20hasan%20kahat.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:47:28
+0 @O0026@ OBJE
+1 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/ahmad%20hasan%20ahmad%20hasan%20kahat.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:48:48
+0 @O0027@ OBJE
+1 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/passport_style_photo.jpg
+2 FORM jpg
+2 TITL
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:50:42
+0 @O0028@ OBJE
+1 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/ahmad%20hasan%20kahat.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 21:55:28
 0 @https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/Generated%20Image%20September%2016%2C%202025%20-%2012_51PM.png@ OBJE
 1 FILE https://raw.githubusercontent.com/jumaad/family-tree/refs/heads/main/media/media/Generated%20Image%20September%2016%2C%202025%20-%2012_51PM.png
 2 FORM png

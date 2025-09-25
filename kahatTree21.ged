@@ -41,6 +41,7 @@
 2 GIVN جمعة
 1 SEX M
 1 FAMC @F0000@
+1 OBJE @O0003500@
 2 PEDI birth
 1 FAMS @F0001@
 1 CHAN
@@ -7677,4 +7678,12 @@
 2 DATE 19 SEP 2025
 3 TIME 23:55:08
 0 TRLR
+0 @O0003500@ OBJE
+1 FILE https://https://raw.githubusercontent.com/jumaad/family-tree/fda2dc96fad1f9d1ee932493301eb963af84055a/media/media/admin%20jumaa.jpeg
+2 FORM jpeg
+2 TITL
+1 CHAN
+2 DATE 24 SEP 2025
+3 TIME 23:30:11
+
 
